@@ -2,7 +2,7 @@
 
 **Drum Kit** -  a site in the internet universe which consists of a small drum kit. I give you a challenge, try to make your favorite song. Do it & Have Fun!
 
-> <p><a href="https://alexandrurudoi.github.io/Drum-Kit/">Drum Kit</a></p>
+> <p><a href="https://alexandrurudoi.github.io/Drum-Kit/">Link</a></p>
 
 ---
 
